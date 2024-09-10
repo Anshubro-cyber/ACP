@@ -69,6 +69,7 @@ for i in range(24):
 t.penup()
 t.goto(20, 0)
 t.pendown()
+t.color("navy")
 t.begin_fill()
 t.circle(20)
 t.end_fill()
